@@ -6,7 +6,7 @@ body {
   }
   
   .clock-container {
-    background-color: white;
+    background-color: red;
     padding: 50px;
     border-radius: 10px;
     display: inline-block;
