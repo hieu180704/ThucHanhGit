@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 Hello 
 Duongggggg 
-=======
->>>>>>> parent of 278c517 (Them dong)
